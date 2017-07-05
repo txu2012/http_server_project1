@@ -1,1 +1,1 @@
-# http_server_project1
+Small HTTP Server for computer networking class project.
