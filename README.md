@@ -1,1 +1,1 @@
-Small HTTP Server for computer networking class project.
+Small HTTP Server Project for computer networking.
